@@ -1,4 +1,4 @@
-# zoomclone
+# OTP verification in Flutter 
 
 A new Flutter project.
 
